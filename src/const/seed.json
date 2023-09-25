@@ -1,0 +1,2522 @@
+[
+  {
+    "crypto_news": [
+      {
+        "id": "594971aa-a7c9-4c48-abb3-50eca0d56d92",
+        "title": "Bitcoin Hits All-Time High",
+        "content": "The price of Bitcoin reached a new record high today...",
+        "published_at": "2023-09-25T07:30:42.292Z",
+        "source": "Crypto News Network",
+        "author": "John Smith",
+        "created_at": "2023-09-24T12:24:57.697Z",
+        "updated_at": "2023-09-25T11:16:33.239Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b24ff6dc-f7fc-4886-977d-01fda684c07f",
+        "title": "Ethereum Surges in Value",
+        "content": "Ethereum's value has seen a significant increase in recent weeks...",
+        "published_at": "2023-09-24T22:58:35.205Z",
+        "source": "Blockchain Gazette",
+        "author": "Jane Doe",
+        "created_at": "2023-09-24T23:23:46.255Z",
+        "updated_at": "2023-09-24T12:44:16.799Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de9f062d-5952-4bd7-96f7-7fe2a6f46d58",
+        "title": "New Cryptocurrency Exchange Launches",
+        "content": "A new cryptocurrency exchange platform has been launched...",
+        "published_at": "2023-09-25T04:12:24.500Z",
+        "source": "Digital Currency Times",
+        "author": "Michael Brown",
+        "created_at": "2023-09-25T09:31:13.602Z",
+        "updated_at": "2023-09-25T11:05:26.565Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0ba330f1-8585-4a04-ab9e-973e807ec590",
+        "title": "Blockchain Technology Revolutionizes Finance",
+        "content": "Blockchain technology is transforming the financial industry...",
+        "published_at": "2023-09-24T22:34:25.129Z",
+        "source": "Crypto Insights",
+        "author": "Sarah Jones",
+        "created_at": "2023-09-25T01:35:19.384Z",
+        "updated_at": "2023-09-24T13:03:32.053Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5b7870f7-4130-4fb5-b2b6-8ca6c5526691",
+        "title": "Crypto Market Predictions for 2022",
+        "content": "Experts share their predictions for the crypto market in 2022...",
+        "published_at": "2023-09-24T12:07:53.512Z",
+        "source": "Coin Telegraph",
+        "author": "Robert Johnson",
+        "created_at": "2023-09-24T11:52:55.561Z",
+        "updated_at": "2023-09-24T22:03:48.568Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_market": [
+      {
+        "id": "13e04772-1fa9-4dea-b66f-abbcbe89d7a3",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "current_price": 83441,
+        "market_cap": 6075,
+        "volume": 92525,
+        "created_at": "2023-09-24T18:25:59.516Z",
+        "updated_at": "2023-09-25T08:11:31.842Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "faa99515-e715-4dd1-bd0e-0629b4adc696",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "current_price": 7624,
+        "market_cap": 15323,
+        "volume": 29862,
+        "created_at": "2023-09-24T22:45:10.436Z",
+        "updated_at": "2023-09-25T00:48:45.681Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cc966236-1978-4c04-bfa7-6d07e390e162",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "current_price": 20437,
+        "market_cap": 4461,
+        "volume": 61599,
+        "created_at": "2023-09-24T12:24:45.065Z",
+        "updated_at": "2023-09-24T18:47:02.699Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8347e57b-3b23-4677-b377-cdbd53beb687",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "current_price": 42291,
+        "market_cap": 23458,
+        "volume": 88084,
+        "created_at": "2023-09-25T08:55:28.696Z",
+        "updated_at": "2023-09-25T04:24:31.323Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1eec86d5-edbe-4d6f-b1de-8ac17322775d",
+        "name": "Cardano",
+        "symbol": "ADA",
+        "current_price": 87409,
+        "market_cap": 54918,
+        "volume": 44426,
+        "created_at": "2023-09-25T10:27:43.849Z",
+        "updated_at": "2023-09-25T03:02:28.251Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_watchlist": [
+      {
+        "id": "49abab61-7b22-459a-8f42-8a5c20b69514",
+        "created_at": "2023-09-24T11:54:58.034Z",
+        "updated_at": "2023-09-25T10:53:07.853Z",
+        "crypto_id": "13e04772-1fa9-4dea-b66f-abbcbe89d7a3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f2d485f2-e22d-4d68-8b85-32c017ec26c1",
+        "created_at": "2023-09-24T12:21:31.618Z",
+        "updated_at": "2023-09-24T23:06:16.043Z",
+        "crypto_id": "13e04772-1fa9-4dea-b66f-abbcbe89d7a3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4c459133-0038-47e2-acc0-fb01a2292d16",
+        "created_at": "2023-09-25T03:52:11.500Z",
+        "updated_at": "2023-09-25T06:37:17.786Z",
+        "crypto_id": "13e04772-1fa9-4dea-b66f-abbcbe89d7a3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "48d8d303-7e1c-4af3-ad67-f9e128057b16",
+        "created_at": "2023-09-24T11:57:51.010Z",
+        "updated_at": "2023-09-25T01:46:53.293Z",
+        "crypto_id": "cc966236-1978-4c04-bfa7-6d07e390e162",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1e587d18-6faa-43ee-9fa5-ea022d0d3fb4",
+        "created_at": "2023-09-25T04:40:53.702Z",
+        "updated_at": "2023-09-24T23:40:44.708Z",
+        "crypto_id": "1eec86d5-edbe-4d6f-b1de-8ac17322775d",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_portfolio": [
+      {
+        "id": "8be68d14-3a9e-4b9e-be3d-d13fde13727d",
+        "amount": 42375,
+        "purchase_price": 83940,
+        "purchase_date": "2023-09-25T05:51:06.107Z",
+        "created_at": "2023-09-25T06:50:33.205Z",
+        "updated_at": "2023-09-25T05:52:23.545Z",
+        "crypto_id": "faa99515-e715-4dd1-bd0e-0629b4adc696",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ac54fd3-838b-4fd5-8e1b-faf0b68757fa",
+        "amount": 55204,
+        "purchase_price": 37584,
+        "purchase_date": "2023-09-24T14:21:00.719Z",
+        "created_at": "2023-09-25T08:40:54.886Z",
+        "updated_at": "2023-09-24T13:14:56.701Z",
+        "crypto_id": "13e04772-1fa9-4dea-b66f-abbcbe89d7a3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "81958167-a4d2-4961-bece-afe0504a2e7f",
+        "amount": 34336,
+        "purchase_price": 81242,
+        "purchase_date": "2023-09-24T14:20:55.419Z",
+        "created_at": "2023-09-25T05:37:23.735Z",
+        "updated_at": "2023-09-24T17:15:05.868Z",
+        "crypto_id": "8347e57b-3b23-4677-b377-cdbd53beb687",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "56236245-8c54-4665-ac1a-433544ebdf87",
+        "amount": 80016,
+        "purchase_price": 66067,
+        "purchase_date": "2023-09-25T02:40:27.872Z",
+        "created_at": "2023-09-25T04:32:41.211Z",
+        "updated_at": "2023-09-24T12:39:38.457Z",
+        "crypto_id": "faa99515-e715-4dd1-bd0e-0629b4adc696",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "624981fc-4ef4-4ff9-9937-072fa660493b",
+        "amount": 47693,
+        "purchase_price": 9931,
+        "purchase_date": "2023-09-24T22:41:19.221Z",
+        "created_at": "2023-09-24T17:54:22.576Z",
+        "updated_at": "2023-09-25T05:28:26.145Z",
+        "crypto_id": "1eec86d5-edbe-4d6f-b1de-8ac17322775d",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a432c773-62eb-4973-be93-bf11ce7caef8",
+        "email": "Wilmer.Frami71@roq.tech",
+        "firstName": "Sam",
+        "lastName": "McLaughlin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1186.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "693b0e38-c18a-42ee-a634-0f7517cb4c4a",
+        "email": "Gerson.Heidenreich@roq.tech",
+        "firstName": "Lenna",
+        "lastName": "Hilpert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93753207",
+        "tenantId": null
+      },
+      {
+        "reference": "ea9ec218-5548-480c-96e2-a45671bc7776",
+        "email": "Malika_Kunze@roq.tech",
+        "firstName": "Shaylee",
+        "lastName": "Stokes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/80982813",
+        "tenantId": null
+      },
+      {
+        "reference": "3c03f44d-842d-464f-bce2-106532ff72b6",
+        "email": "Etha.Pacocha14@roq.tech",
+        "firstName": "Nikita",
+        "lastName": "Weissnat",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/24.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4cccdecc-3b8f-4932-b047-390a22bbab8b",
+        "email": "Gerry23@roq.tech",
+        "firstName": "Godfrey",
+        "lastName": "Durgan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96880693",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "crypto_news": [
+      {
+        "id": "dcf8f54e-4d70-4e72-b515-3dbd35785b27",
+        "title": "Bitcoin reaches new all-time high",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "published_at": "2023-09-24T12:32:57.033Z",
+        "source": "CoinDesk",
+        "author": "John Smith",
+        "created_at": "2023-09-24T22:11:16.101Z",
+        "updated_at": "2023-09-25T01:46:09.368Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "628cf78d-280f-4c77-8f9b-77783eb2d085",
+        "title": "Ethereum's latest upgrade boosts network efficiency",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "published_at": "2023-09-24T21:32:55.320Z",
+        "source": "Cointelegraph",
+        "author": "Jane Doe",
+        "created_at": "2023-09-24T20:03:46.162Z",
+        "updated_at": "2023-09-25T08:50:46.083Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dbd3591a-f58e-4038-81ca-4d69bca0013d",
+        "title": "Ripple partners with major banks for cross-border payments",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "published_at": "2023-09-25T03:41:37.375Z",
+        "source": "CryptoSlate",
+        "author": "Michael Brown",
+        "created_at": "2023-09-25T07:51:45.203Z",
+        "updated_at": "2023-09-25T08:46:48.018Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9c95c54a-fd47-42e0-ad7e-b31f057833f0",
+        "title": "Cardano introduces new smart contract capabilities",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+        "published_at": "2023-09-25T08:33:05.821Z",
+        "source": "Bitcoin Magazine",
+        "author": "Sarah Jones",
+        "created_at": "2023-09-24T20:26:59.010Z",
+        "updated_at": "2023-09-24T15:48:27.957Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bdbc74e3-366e-43ce-a4d8-fba56544a948",
+        "title": "Dogecoin gains popularity among retail investors",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "published_at": "2023-09-25T02:38:46.479Z",
+        "source": "Decrypt",
+        "author": "Robert Wilson",
+        "created_at": "2023-09-25T08:19:50.188Z",
+        "updated_at": "2023-09-24T14:34:01.443Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_market": [
+      {
+        "id": "b544babc-245f-4493-8af5-fdf5cca33840",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "current_price": 9196,
+        "market_cap": 75534,
+        "volume": 87190,
+        "created_at": "2023-09-25T07:17:05.929Z",
+        "updated_at": "2023-09-25T08:00:26.235Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9ed6521c-f465-4f8a-b3c4-0dbed203f677",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "current_price": 68649,
+        "market_cap": 70242,
+        "volume": 13068,
+        "created_at": "2023-09-25T09:57:16.085Z",
+        "updated_at": "2023-09-25T05:27:43.863Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bb0ffea4-1e81-4e41-aa15-2c8c95a00f09",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "current_price": 23040,
+        "market_cap": 50614,
+        "volume": 57537,
+        "created_at": "2023-09-24T21:23:51.948Z",
+        "updated_at": "2023-09-24T13:01:15.113Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e4e315d3-c632-42f8-9ac7-748f863c3e6a",
+        "name": "Cardano",
+        "symbol": "ADA",
+        "current_price": 2692,
+        "market_cap": 10584,
+        "volume": 30123,
+        "created_at": "2023-09-24T23:26:27.176Z",
+        "updated_at": "2023-09-24T13:58:54.097Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f68b052-82a1-4696-ad81-d1ca8673470b",
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "current_price": 44839,
+        "market_cap": 40671,
+        "volume": 60923,
+        "created_at": "2023-09-25T11:00:17.385Z",
+        "updated_at": "2023-09-25T00:51:17.244Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_watchlist": [
+      {
+        "id": "d0b87652-b331-47b1-8fee-3d8fca3dc973",
+        "created_at": "2023-09-24T17:33:53.685Z",
+        "updated_at": "2023-09-25T06:07:03.551Z",
+        "crypto_id": "e4e315d3-c632-42f8-9ac7-748f863c3e6a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3df2b6e5-aea5-4fbf-94dd-a902ad5a4eba",
+        "created_at": "2023-09-25T05:39:16.354Z",
+        "updated_at": "2023-09-24T14:30:13.604Z",
+        "crypto_id": "e4e315d3-c632-42f8-9ac7-748f863c3e6a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d17cd9f6-d5ff-48a7-aa49-be68b5e4b5f0",
+        "created_at": "2023-09-24T13:48:44.010Z",
+        "updated_at": "2023-09-24T17:43:32.604Z",
+        "crypto_id": "bb0ffea4-1e81-4e41-aa15-2c8c95a00f09",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b5ad258d-ed21-40d6-a5f4-3ea83d035f13",
+        "created_at": "2023-09-25T07:26:05.691Z",
+        "updated_at": "2023-09-24T16:49:10.613Z",
+        "crypto_id": "b544babc-245f-4493-8af5-fdf5cca33840",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3201ae03-bb2f-4f03-a053-54c6bd648ec9",
+        "created_at": "2023-09-24T18:18:02.557Z",
+        "updated_at": "2023-09-25T02:15:04.148Z",
+        "crypto_id": "e4e315d3-c632-42f8-9ac7-748f863c3e6a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_portfolio": [
+      {
+        "id": "6e34ed65-b51f-4c78-a93a-d59bc0eef0e0",
+        "amount": 881,
+        "purchase_price": 95067,
+        "purchase_date": "2023-09-24T12:18:38.496Z",
+        "created_at": "2023-09-24T13:20:16.045Z",
+        "updated_at": "2023-09-24T13:29:58.581Z",
+        "crypto_id": "e4e315d3-c632-42f8-9ac7-748f863c3e6a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a2c8b00-8975-4996-b545-1a7112b1d002",
+        "amount": 61807,
+        "purchase_price": 32706,
+        "purchase_date": "2023-09-25T04:42:03.521Z",
+        "created_at": "2023-09-25T01:34:05.726Z",
+        "updated_at": "2023-09-24T16:07:13.286Z",
+        "crypto_id": "9ed6521c-f465-4f8a-b3c4-0dbed203f677",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "564850c0-599a-419e-877d-bc8bd0fa2c70",
+        "amount": 48871,
+        "purchase_price": 74260,
+        "purchase_date": "2023-09-24T18:08:26.569Z",
+        "created_at": "2023-09-24T16:43:59.553Z",
+        "updated_at": "2023-09-25T07:33:22.454Z",
+        "crypto_id": "8f68b052-82a1-4696-ad81-d1ca8673470b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a0d1cb61-724e-4ceb-8e18-06ad50d248f5",
+        "amount": 8034,
+        "purchase_price": 35325,
+        "purchase_date": "2023-09-24T17:12:25.497Z",
+        "created_at": "2023-09-24T23:40:34.039Z",
+        "updated_at": "2023-09-24T17:05:14.658Z",
+        "crypto_id": "b544babc-245f-4493-8af5-fdf5cca33840",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5dd8fa03-cf49-448d-972f-1b75d8fdad3a",
+        "amount": 95726,
+        "purchase_price": 8209,
+        "purchase_date": "2023-09-24T17:46:09.396Z",
+        "created_at": "2023-09-25T06:46:55.275Z",
+        "updated_at": "2023-09-25T06:32:48.018Z",
+        "crypto_id": "8f68b052-82a1-4696-ad81-d1ca8673470b",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f6828f8e-bcd3-4140-bbbd-8d72ec726fe4",
+        "email": "Clara.Feil78@roq.tech",
+        "firstName": "Gerard",
+        "lastName": "Miller",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/159.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "27acfddd-93c8-4385-a907-20d38bcfa40e",
+        "email": "Lincoln.Dooley11@roq.tech",
+        "firstName": "Jerrod",
+        "lastName": "Konopelski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/447.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f4ad621b-a89f-4fe2-b888-6eccdfff0ee5",
+        "email": "Burdette94@roq.tech",
+        "firstName": "Octavia",
+        "lastName": "Toy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55789735",
+        "tenantId": null
+      },
+      {
+        "reference": "41a6e8ee-d2cf-4839-ac7f-8f38b2e97f9c",
+        "email": "Presley_Rath@roq.tech",
+        "firstName": "Anabel",
+        "lastName": "Corwin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/134.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0253ca03-6363-4f0d-9c2a-0dac58e2af24",
+        "email": "Paula38@roq.tech",
+        "firstName": "Hubert",
+        "lastName": "Smitham-Leannon",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/66.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "crypto_news": [
+      {
+        "id": "3abc9900-09e6-4d9a-978f-5b898a2f8fe7",
+        "title": "Bitcoin Surges to New All-Time High",
+        "content": "Bitcoin, the world's largest cryptocurrency, reached a new all-time high today...",
+        "published_at": "2023-09-25T02:18:47.655Z",
+        "source": "CoinDesk",
+        "author": "John Smith",
+        "created_at": "2023-09-25T07:51:57.741Z",
+        "updated_at": "2023-09-24T15:18:43.440Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5fb916c7-b247-4174-8bfe-6e193be92b6b",
+        "title": "Ethereum Hits Record Price Amidst Market Rally",
+        "content": "Ethereum, the second-largest cryptocurrency by market capitalization, soared to a record price...",
+        "published_at": "2023-09-24T16:10:36.224Z",
+        "source": "Cointelegraph",
+        "author": "Jane Doe",
+        "created_at": "2023-09-24T14:40:27.989Z",
+        "updated_at": "2023-09-25T03:14:20.539Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8b312c4b-737a-4bba-9b6b-cea26a5fc633",
+        "title": "Ripple Partners with Major Banks for Cross-Border Payments",
+        "content": "Ripple, a blockchain-based payment protocol, announced partnerships with several major banks...",
+        "published_at": "2023-09-24T20:13:47.917Z",
+        "source": "CryptoSlate",
+        "author": "Michael Brown",
+        "created_at": "2023-09-24T20:44:36.955Z",
+        "updated_at": "2023-09-25T06:54:13.263Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "989562b0-5a2b-45a8-b217-bc1036274807",
+        "title": "Cardano Launches Smart Contract Platform",
+        "content": "Cardano, a blockchain platform, successfully launched its long-awaited smart contract functionality...",
+        "published_at": "2023-09-24T12:48:14.203Z",
+        "source": "Coin Telegraph",
+        "author": "Sarah Wilson",
+        "created_at": "2023-09-24T15:03:21.401Z",
+        "updated_at": "2023-09-24T16:52:39.638Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bcec7389-25ec-4477-9224-d81be4b22a20",
+        "title": "Dogecoin Gains Popularity as Meme Coin",
+        "content": "Dogecoin, originally created as a joke, has gained significant popularity in recent months...",
+        "published_at": "2023-09-24T20:37:07.182Z",
+        "source": "CoinMarketCap",
+        "author": "David Johnson",
+        "created_at": "2023-09-24T19:35:18.350Z",
+        "updated_at": "2023-09-25T06:14:11.696Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_market": [
+      {
+        "id": "a5c82761-94f3-4c90-a77f-e017dc7793eb",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "current_price": 61679,
+        "market_cap": 21862,
+        "volume": 81020,
+        "created_at": "2023-09-24T21:49:36.965Z",
+        "updated_at": "2023-09-25T07:54:14.000Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0703a8f3-9460-4377-9bd9-840ab6d1b9ce",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "current_price": 17753,
+        "market_cap": 16524,
+        "volume": 22218,
+        "created_at": "2023-09-24T18:49:28.070Z",
+        "updated_at": "2023-09-25T10:12:59.412Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d32836a-08bf-4eec-8ac4-8d1ab3f53d9d",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "current_price": 42661,
+        "market_cap": 12032,
+        "volume": 96904,
+        "created_at": "2023-09-25T06:19:44.229Z",
+        "updated_at": "2023-09-25T08:08:07.488Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eee23e69-dc76-4491-a7fa-0c8b0b26eedb",
+        "name": "Cardano",
+        "symbol": "ADA",
+        "current_price": 21741,
+        "market_cap": 66820,
+        "volume": 6841,
+        "created_at": "2023-09-25T08:00:52.281Z",
+        "updated_at": "2023-09-24T15:43:52.129Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de0d7b8d-718b-466f-bb29-bb1a4ef75fb5",
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "current_price": 64879,
+        "market_cap": 3904,
+        "volume": 28240,
+        "created_at": "2023-09-24T16:05:16.898Z",
+        "updated_at": "2023-09-25T06:08:29.522Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_watchlist": [
+      {
+        "id": "22143a80-c1eb-4000-b136-689c1109c1a9",
+        "created_at": "2023-09-24T12:59:36.104Z",
+        "updated_at": "2023-09-25T08:36:40.332Z",
+        "crypto_id": "de0d7b8d-718b-466f-bb29-bb1a4ef75fb5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1f3d986a-f704-45a6-bb4b-1da0b382d551",
+        "created_at": "2023-09-24T15:37:23.024Z",
+        "updated_at": "2023-09-25T09:08:10.236Z",
+        "crypto_id": "9d32836a-08bf-4eec-8ac4-8d1ab3f53d9d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d7c8a87e-8217-460a-962b-d18434275053",
+        "created_at": "2023-09-24T19:50:55.158Z",
+        "updated_at": "2023-09-25T09:41:19.292Z",
+        "crypto_id": "0703a8f3-9460-4377-9bd9-840ab6d1b9ce",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "45f9c816-a65e-411d-b372-0b4c0c359e08",
+        "created_at": "2023-09-24T14:07:03.410Z",
+        "updated_at": "2023-09-24T18:01:48.507Z",
+        "crypto_id": "de0d7b8d-718b-466f-bb29-bb1a4ef75fb5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "55ba09dd-a2e2-4120-803a-b2f903cec287",
+        "created_at": "2023-09-25T06:05:45.104Z",
+        "updated_at": "2023-09-25T05:49:30.715Z",
+        "crypto_id": "9d32836a-08bf-4eec-8ac4-8d1ab3f53d9d",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_portfolio": [
+      {
+        "id": "bc43f5ab-5fb3-49d8-a299-eb8c49d8f920",
+        "amount": 77607,
+        "purchase_price": 17022,
+        "purchase_date": "2023-09-24T18:28:36.684Z",
+        "created_at": "2023-09-24T11:58:22.908Z",
+        "updated_at": "2023-09-25T02:05:35.043Z",
+        "crypto_id": "a5c82761-94f3-4c90-a77f-e017dc7793eb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d8e3b95-446f-4dfe-b423-6be420a4adca",
+        "amount": 81981,
+        "purchase_price": 155,
+        "purchase_date": "2023-09-25T08:14:55.769Z",
+        "created_at": "2023-09-25T02:14:35.353Z",
+        "updated_at": "2023-09-24T23:10:41.718Z",
+        "crypto_id": "9d32836a-08bf-4eec-8ac4-8d1ab3f53d9d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4de0e6f3-d9ac-43f7-ba26-81fd4a9fa18c",
+        "amount": 77530,
+        "purchase_price": 74244,
+        "purchase_date": "2023-09-25T05:08:14.966Z",
+        "created_at": "2023-09-24T15:57:07.109Z",
+        "updated_at": "2023-09-25T03:24:43.536Z",
+        "crypto_id": "a5c82761-94f3-4c90-a77f-e017dc7793eb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7f069a9-7838-44d7-ab87-4f2493b475a2",
+        "amount": 81277,
+        "purchase_price": 62557,
+        "purchase_date": "2023-09-25T08:39:57.565Z",
+        "created_at": "2023-09-25T06:56:47.714Z",
+        "updated_at": "2023-09-25T07:42:52.858Z",
+        "crypto_id": "eee23e69-dc76-4491-a7fa-0c8b0b26eedb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "21a996f5-55ef-4bb2-b41d-9e6fbd39cbd6",
+        "amount": 61337,
+        "purchase_price": 10416,
+        "purchase_date": "2023-09-24T13:35:13.439Z",
+        "created_at": "2023-09-25T04:18:53.433Z",
+        "updated_at": "2023-09-25T08:33:53.621Z",
+        "crypto_id": "0703a8f3-9460-4377-9bd9-840ab6d1b9ce",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d1c1e694-98e9-48a0-804d-56ede6b53e3e",
+        "email": "Kaleb_Emard@roq.tech",
+        "firstName": "George",
+        "lastName": "Kozey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/646.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f6a59d62-ab28-4e2d-a9ad-57d77590d95c",
+        "email": "Florencio_Dicki1@roq.tech",
+        "firstName": "Doris",
+        "lastName": "Kilback",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/498.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "49eaaa1f-f486-4fce-9011-0c8b9535cf4b",
+        "email": "Estefania.Goldner@roq.tech",
+        "firstName": "Leatha",
+        "lastName": "Casper",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50536295",
+        "tenantId": null
+      },
+      {
+        "reference": "e308ffa3-78f1-4b87-b2b7-31c790c4b841",
+        "email": "Vladimir.DAmore@roq.tech",
+        "firstName": "Bianka",
+        "lastName": "Emard",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1029.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "26760cdc-4c4e-443f-8ff2-102a4f129a06",
+        "email": "Aiden_Boyle@roq.tech",
+        "firstName": "Dandre",
+        "lastName": "Auer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92490557",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "crypto_news": [
+      {
+        "id": "4d5a291c-1650-4243-8ee3-a595df4a1fe6",
+        "title": "Bitcoin reaches all-time high",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "published_at": "2023-09-25T09:31:45.166Z",
+        "source": "CoinDesk",
+        "author": "John Smith",
+        "created_at": "2023-09-25T05:17:00.311Z",
+        "updated_at": "2023-09-24T19:49:42.653Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c3396152-7819-46af-a372-07345baa8173",
+        "title": "Ethereum upgrades its network",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "published_at": "2023-09-24T14:30:45.965Z",
+        "source": "Cointelegraph",
+        "author": "Jane Doe",
+        "created_at": "2023-09-25T02:31:07.596Z",
+        "updated_at": "2023-09-25T01:00:23.120Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fdf879e9-4dc7-4f91-820a-6a0d6836f631",
+        "title": "New cryptocurrency regulations announced",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "published_at": "2023-09-25T04:28:29.411Z",
+        "source": "CryptoSlate",
+        "author": "Michael Brown",
+        "created_at": "2023-09-24T16:44:53.816Z",
+        "updated_at": "2023-09-25T02:14:43.738Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee6e7ecb-5b69-46d2-b774-30032bc4d72b",
+        "title": "Ripple partners with major bank",
+        "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+        "published_at": "2023-09-24T22:10:10.251Z",
+        "source": "CoinTelegraph",
+        "author": "Sarah Jones",
+        "created_at": "2023-09-25T10:50:17.095Z",
+        "updated_at": "2023-09-25T01:01:03.708Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9f814437-7744-4c8f-9116-81da6b2df2e3",
+        "title": "Litecoin introduces privacy feature",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "published_at": "2023-09-25T04:04:49.552Z",
+        "source": "CryptoBriefing",
+        "author": "Robert Wilson",
+        "created_at": "2023-09-24T19:14:03.991Z",
+        "updated_at": "2023-09-25T01:38:18.929Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_market": [
+      {
+        "id": "8510bcaf-d922-4046-a5a3-49959473d417",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "current_price": 60507,
+        "market_cap": 7544,
+        "volume": 74718,
+        "created_at": "2023-09-24T13:11:55.185Z",
+        "updated_at": "2023-09-24T16:54:47.432Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b6f918cb-63cb-4829-966c-88fc655dac74",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "current_price": 66938,
+        "market_cap": 55492,
+        "volume": 1378,
+        "created_at": "2023-09-25T00:54:20.922Z",
+        "updated_at": "2023-09-24T22:36:35.425Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2ae6970b-39ca-4077-b463-168592e8ca80",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "current_price": 83619,
+        "market_cap": 38174,
+        "volume": 96795,
+        "created_at": "2023-09-25T01:35:45.221Z",
+        "updated_at": "2023-09-24T19:34:55.169Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a85f35c6-6d36-4362-b12c-0a71dbde43e8",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "current_price": 54888,
+        "market_cap": 21361,
+        "volume": 91813,
+        "created_at": "2023-09-25T05:56:39.769Z",
+        "updated_at": "2023-09-25T10:08:43.993Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "40fd706f-8958-4840-824b-89a9927ab214",
+        "name": "Cardano",
+        "symbol": "ADA",
+        "current_price": 28137,
+        "market_cap": 56740,
+        "volume": 30020,
+        "created_at": "2023-09-25T03:28:27.437Z",
+        "updated_at": "2023-09-25T05:18:40.553Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_watchlist": [
+      {
+        "id": "8ec7ed75-76fd-42c5-89c6-0023a4b572e3",
+        "created_at": "2023-09-25T01:46:27.096Z",
+        "updated_at": "2023-09-25T00:36:48.472Z",
+        "crypto_id": "8510bcaf-d922-4046-a5a3-49959473d417",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "93956f1f-16fc-48dc-80a7-46320f02975a",
+        "created_at": "2023-09-25T02:59:45.926Z",
+        "updated_at": "2023-09-25T01:11:46.672Z",
+        "crypto_id": "8510bcaf-d922-4046-a5a3-49959473d417",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9966758-5209-4668-9354-0d20414a9ad9",
+        "created_at": "2023-09-24T22:48:56.701Z",
+        "updated_at": "2023-09-25T08:47:19.017Z",
+        "crypto_id": "40fd706f-8958-4840-824b-89a9927ab214",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee673e36-6330-4ee2-ab6c-c00fbd529488",
+        "created_at": "2023-09-24T17:00:36.208Z",
+        "updated_at": "2023-09-25T10:11:24.838Z",
+        "crypto_id": "a85f35c6-6d36-4362-b12c-0a71dbde43e8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1deba6a4-4bdb-446e-9112-d7f94f9ce9be",
+        "created_at": "2023-09-25T09:49:21.263Z",
+        "updated_at": "2023-09-24T22:12:04.036Z",
+        "crypto_id": "40fd706f-8958-4840-824b-89a9927ab214",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_portfolio": [
+      {
+        "id": "18559211-0a8e-47aa-b56e-4814f5cc5f95",
+        "amount": 67994,
+        "purchase_price": 55667,
+        "purchase_date": "2023-09-25T06:54:22.248Z",
+        "created_at": "2023-09-25T02:31:21.552Z",
+        "updated_at": "2023-09-24T23:45:09.537Z",
+        "crypto_id": "2ae6970b-39ca-4077-b463-168592e8ca80",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ff0cd53-0348-4369-aa85-5280c68f9933",
+        "amount": 14754,
+        "purchase_price": 67112,
+        "purchase_date": "2023-09-24T15:35:44.640Z",
+        "created_at": "2023-09-24T17:50:58.239Z",
+        "updated_at": "2023-09-25T05:55:17.929Z",
+        "crypto_id": "b6f918cb-63cb-4829-966c-88fc655dac74",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c631ede-c185-4e28-a9a0-0307215bed99",
+        "amount": 40808,
+        "purchase_price": 30628,
+        "purchase_date": "2023-09-24T23:53:41.573Z",
+        "created_at": "2023-09-25T09:10:39.879Z",
+        "updated_at": "2023-09-24T23:35:12.017Z",
+        "crypto_id": "40fd706f-8958-4840-824b-89a9927ab214",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a8484a2-460b-4ef9-abbb-d142dec48a1b",
+        "amount": 34008,
+        "purchase_price": 25329,
+        "purchase_date": "2023-09-25T06:24:38.533Z",
+        "created_at": "2023-09-24T22:37:57.348Z",
+        "updated_at": "2023-09-25T02:31:36.713Z",
+        "crypto_id": "8510bcaf-d922-4046-a5a3-49959473d417",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a8353ac7-7d4a-4302-a87d-bd5c927dfecd",
+        "amount": 88466,
+        "purchase_price": 50121,
+        "purchase_date": "2023-09-24T18:52:49.583Z",
+        "created_at": "2023-09-24T19:38:09.581Z",
+        "updated_at": "2023-09-24T22:10:33.666Z",
+        "crypto_id": "a85f35c6-6d36-4362-b12c-0a71dbde43e8",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "42003b8c-90ea-4377-af22-10cf192bb087",
+        "email": "Ashtyn63@roq.tech",
+        "firstName": "Gaston",
+        "lastName": "Marquardt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44972038",
+        "tenantId": null
+      },
+      {
+        "reference": "c9f47266-8851-47e4-827d-d0f5879a21d2",
+        "email": "Lesly76@roq.tech",
+        "firstName": "Blaise",
+        "lastName": "Brekke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2950383",
+        "tenantId": null
+      },
+      {
+        "reference": "a0721d58-5488-4ddf-9b47-28564ccf6e29",
+        "email": "Paige58@roq.tech",
+        "firstName": "Otilia",
+        "lastName": "Parisian",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/773.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "147f4bf5-a671-4ae8-952b-2abd2ed3037c",
+        "email": "Hazel.Herman49@roq.tech",
+        "firstName": "Henderson",
+        "lastName": "Bartoletti-Tillman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78548771",
+        "tenantId": null
+      },
+      {
+        "reference": "a14480e9-db9c-47ef-8577-c1f8710de8dd",
+        "email": "Jermaine16@roq.tech",
+        "firstName": "Keon",
+        "lastName": "Beahan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/904.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "crypto_news": [
+      {
+        "id": "6b6c62b9-6dad-4339-84ef-1ea653e9e2d6",
+        "title": "Bitcoin Hits All-Time High",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "published_at": "2023-09-24T21:04:58.543Z",
+        "source": "CoinDesk",
+        "author": "John Smith",
+        "created_at": "2023-09-24T23:50:34.776Z",
+        "updated_at": "2023-09-24T11:32:54.244Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d389df0c-3d51-4c1e-85c5-5656e9762102",
+        "title": "Ethereum Surpasses $3000",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "published_at": "2023-09-24T15:04:10.404Z",
+        "source": "Cointelegraph",
+        "author": "Jane Doe",
+        "created_at": "2023-09-24T13:27:29.555Z",
+        "updated_at": "2023-09-24T18:07:29.207Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8bdcc75a-da35-4d2f-8c48-b9bd52a56157",
+        "title": "Dogecoin Becomes Top 10 Cryptocurrency",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "published_at": "2023-09-24T12:26:15.585Z",
+        "source": "CryptoSlate",
+        "author": "Michael Brown",
+        "created_at": "2023-09-25T08:04:23.297Z",
+        "updated_at": "2023-09-24T23:00:30.690Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "60a3397e-9cce-4ebc-b371-52f45d115f5a",
+        "title": "Cardano Launches Smart Contracts",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "published_at": "2023-09-25T03:50:17.481Z",
+        "source": "Bitcoin.com",
+        "author": "Sarah Jones",
+        "created_at": "2023-09-25T05:30:05.078Z",
+        "updated_at": "2023-09-25T04:59:01.340Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b481423-37dd-4bbd-9717-61665ba7d3d2",
+        "title": "Ripple Partners with Major Banks",
+        "content": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+        "published_at": "2023-09-24T22:05:26.479Z",
+        "source": "CoinTelegraph",
+        "author": "Robert Wilson",
+        "created_at": "2023-09-24T23:35:10.480Z",
+        "updated_at": "2023-09-24T16:52:31.931Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_market": [
+      {
+        "id": "43dd75be-87f7-40e9-8933-06078b255f4b",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "current_price": 44125,
+        "market_cap": 65413,
+        "volume": 98728,
+        "created_at": "2023-09-24T21:32:47.645Z",
+        "updated_at": "2023-09-24T19:07:16.417Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce44208c-bcfe-4433-b74c-827d6bfca04b",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "current_price": 83730,
+        "market_cap": 76252,
+        "volume": 41914,
+        "created_at": "2023-09-24T13:30:40.618Z",
+        "updated_at": "2023-09-24T19:55:35.194Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f32a7b9a-1d39-436d-9b0c-6965a0c54ecb",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "current_price": 17339,
+        "market_cap": 5520,
+        "volume": 96024,
+        "created_at": "2023-09-25T07:10:26.598Z",
+        "updated_at": "2023-09-24T19:46:24.773Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "54db0452-136c-42d1-9cbd-f2ccd7061403",
+        "name": "Cardano",
+        "symbol": "ADA",
+        "current_price": 48576,
+        "market_cap": 34701,
+        "volume": 40114,
+        "created_at": "2023-09-25T02:08:59.050Z",
+        "updated_at": "2023-09-24T23:49:00.513Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "afc7e642-a5d3-40ab-9e7b-5d29ac8e3e1e",
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "current_price": 282,
+        "market_cap": 17278,
+        "volume": 16342,
+        "created_at": "2023-09-25T01:41:26.796Z",
+        "updated_at": "2023-09-25T10:41:38.658Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_watchlist": [
+      {
+        "id": "70076b56-da22-4d1b-b58c-605c20ce3b80",
+        "created_at": "2023-09-24T12:26:57.763Z",
+        "updated_at": "2023-09-25T02:10:00.515Z",
+        "crypto_id": "afc7e642-a5d3-40ab-9e7b-5d29ac8e3e1e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "91179c28-b886-48d2-b1d8-9c27cf293f4d",
+        "created_at": "2023-09-24T11:37:08.581Z",
+        "updated_at": "2023-09-24T18:40:56.271Z",
+        "crypto_id": "f32a7b9a-1d39-436d-9b0c-6965a0c54ecb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3912336c-6dc7-4194-9ac0-f2541b55d210",
+        "created_at": "2023-09-24T18:43:36.018Z",
+        "updated_at": "2023-09-25T02:01:41.506Z",
+        "crypto_id": "43dd75be-87f7-40e9-8933-06078b255f4b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97e8fd62-7558-4643-be86-253a54c15d33",
+        "created_at": "2023-09-24T17:46:44.665Z",
+        "updated_at": "2023-09-25T07:03:19.519Z",
+        "crypto_id": "ce44208c-bcfe-4433-b74c-827d6bfca04b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "57110ad1-138f-4f61-ad3c-8c869ab70dd5",
+        "created_at": "2023-09-25T04:30:56.310Z",
+        "updated_at": "2023-09-25T02:30:54.504Z",
+        "crypto_id": "f32a7b9a-1d39-436d-9b0c-6965a0c54ecb",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_portfolio": [
+      {
+        "id": "5c978851-03d4-4f25-b4b3-da512333fd32",
+        "amount": 20688,
+        "purchase_price": 81118,
+        "purchase_date": "2023-09-25T01:09:28.340Z",
+        "created_at": "2023-09-25T11:24:02.207Z",
+        "updated_at": "2023-09-24T13:41:55.627Z",
+        "crypto_id": "f32a7b9a-1d39-436d-9b0c-6965a0c54ecb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d56a9af2-ea47-433e-9562-00b02c16efc0",
+        "amount": 18104,
+        "purchase_price": 81656,
+        "purchase_date": "2023-09-25T03:09:03.496Z",
+        "created_at": "2023-09-25T06:27:18.835Z",
+        "updated_at": "2023-09-24T17:15:50.771Z",
+        "crypto_id": "f32a7b9a-1d39-436d-9b0c-6965a0c54ecb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc7283e9-c291-485a-9e64-67966f2ec5f1",
+        "amount": 79956,
+        "purchase_price": 51410,
+        "purchase_date": "2023-09-24T21:10:26.907Z",
+        "created_at": "2023-09-25T08:02:33.450Z",
+        "updated_at": "2023-09-24T15:36:49.555Z",
+        "crypto_id": "f32a7b9a-1d39-436d-9b0c-6965a0c54ecb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2191043c-9fb6-4dab-8554-0e4d47edc683",
+        "amount": 79101,
+        "purchase_price": 74013,
+        "purchase_date": "2023-09-25T06:12:18.440Z",
+        "created_at": "2023-09-25T04:52:37.472Z",
+        "updated_at": "2023-09-25T08:29:58.130Z",
+        "crypto_id": "54db0452-136c-42d1-9cbd-f2ccd7061403",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7d92c212-72c2-4d73-858c-482fe8f204a9",
+        "amount": 77608,
+        "purchase_price": 86162,
+        "purchase_date": "2023-09-24T22:26:25.998Z",
+        "created_at": "2023-09-24T15:04:14.329Z",
+        "updated_at": "2023-09-25T01:30:59.799Z",
+        "crypto_id": "43dd75be-87f7-40e9-8933-06078b255f4b",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3b28f656-1dd9-437f-b033-f3fdda2ad999",
+        "email": "Jess_Armstrong78@roq.tech",
+        "firstName": "Damian",
+        "lastName": "Cruickshank-Jacobs",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53907950",
+        "tenantId": null
+      },
+      {
+        "reference": "84fccc84-986c-45fd-bb7e-a3d7ead706db",
+        "email": "Dorothea_Pouros40@roq.tech",
+        "firstName": "Garnett",
+        "lastName": "Bernhard",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/296.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4f054e74-70f9-4e4f-ae51-0d4532a521e7",
+        "email": "Maxie66@roq.tech",
+        "firstName": "Olga",
+        "lastName": "Schimmel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1111.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e9bc409f-1de3-4452-99e7-ffc9400c19ad",
+        "email": "Kory98@roq.tech",
+        "firstName": "Delfina",
+        "lastName": "Schultz-Conroy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/80598486",
+        "tenantId": null
+      },
+      {
+        "reference": "c05583ee-f000-41fd-a12a-39761d3e21f7",
+        "email": "Cristopher39@roq.tech",
+        "firstName": "Trystan",
+        "lastName": "Stokes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/585.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "crypto_news": [
+      {
+        "id": "51ba1abb-9332-487a-8804-9419ce3dfe22",
+        "title": "Bitcoin hits all-time high",
+        "content": "Lorem ipsum dolor sit amet",
+        "published_at": "2023-09-25T09:24:05.735Z",
+        "source": "CoinDesk",
+        "author": "John Smith",
+        "created_at": "2023-09-24T19:55:57.888Z",
+        "updated_at": "2023-09-25T05:58:16.403Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "87e4aaf4-2ff3-4275-82df-9edf7f7e7591",
+        "title": "Ethereum's latest upgrade",
+        "content": "Consectetur adipiscing elit",
+        "published_at": "2023-09-24T14:37:51.368Z",
+        "source": "CryptoSlate",
+        "author": "Jane Doe",
+        "created_at": "2023-09-25T05:08:23.626Z",
+        "updated_at": "2023-09-25T05:26:11.125Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e02d5301-6cd8-4a4e-ba58-b25c92492103",
+        "title": "New cryptocurrency regulations",
+        "content": "Sed do eiusmod tempor incididunt",
+        "published_at": "2023-09-25T01:48:25.917Z",
+        "source": "Cointelegraph",
+        "author": "Michael Brown",
+        "created_at": "2023-09-25T08:43:08.036Z",
+        "updated_at": "2023-09-24T22:06:49.604Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a40b54c-0c80-46c8-8d45-84100eeb39aa",
+        "title": "Rise of decentralized finance",
+        "content": "Ut labore et dolore magna aliqua",
+        "published_at": "2023-09-25T06:06:11.670Z",
+        "source": "CoinTelegraph",
+        "author": "Sarah Jones",
+        "created_at": "2023-09-24T17:52:37.410Z",
+        "updated_at": "2023-09-25T00:00:43.046Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af78298c-ed31-4c59-98c4-94eab8de3445",
+        "title": "Crypto market analysis",
+        "content": "Ut enim ad minim veniam",
+        "published_at": "2023-09-24T14:15:23.573Z",
+        "source": "Crypto News",
+        "author": "Robert Wilson",
+        "created_at": "2023-09-24T14:16:06.067Z",
+        "updated_at": "2023-09-24T23:11:02.295Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_market": [
+      {
+        "id": "08f0b39c-d5d5-45b2-a6b9-6d1a07bb555e",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "current_price": 63487,
+        "market_cap": 18176,
+        "volume": 91965,
+        "created_at": "2023-09-24T15:47:17.934Z",
+        "updated_at": "2023-09-24T13:11:47.099Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a72be56f-3148-4cfb-9aec-d4b272766501",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "current_price": 95369,
+        "market_cap": 78215,
+        "volume": 18712,
+        "created_at": "2023-09-24T14:05:03.599Z",
+        "updated_at": "2023-09-25T01:56:01.559Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3c2fef2-54f5-47de-ad8f-0d9459c5f416",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "current_price": 67200,
+        "market_cap": 57281,
+        "volume": 94891,
+        "created_at": "2023-09-24T22:01:49.734Z",
+        "updated_at": "2023-09-24T12:53:25.608Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "caae4a3c-103f-48ec-b218-1fdfe7e50d41",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "current_price": 66091,
+        "market_cap": 81442,
+        "volume": 72845,
+        "created_at": "2023-09-25T08:55:48.516Z",
+        "updated_at": "2023-09-24T13:19:35.786Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2adae797-5e87-4c71-9d2e-29a8c30da8ac",
+        "name": "Cardano",
+        "symbol": "ADA",
+        "current_price": 64337,
+        "market_cap": 70178,
+        "volume": 41803,
+        "created_at": "2023-09-25T11:11:17.317Z",
+        "updated_at": "2023-09-25T01:25:18.015Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_watchlist": [
+      {
+        "id": "07178c61-84fe-4425-a945-932a69354ca1",
+        "created_at": "2023-09-24T15:48:28.314Z",
+        "updated_at": "2023-09-25T05:19:38.866Z",
+        "crypto_id": "2adae797-5e87-4c71-9d2e-29a8c30da8ac",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ec58cd79-46ad-472d-939f-43f8a12ca1ef",
+        "created_at": "2023-09-25T00:28:39.302Z",
+        "updated_at": "2023-09-25T04:54:31.741Z",
+        "crypto_id": "08f0b39c-d5d5-45b2-a6b9-6d1a07bb555e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e6d94ba-e329-4463-94c2-c1bc1a2e90eb",
+        "created_at": "2023-09-24T15:25:17.605Z",
+        "updated_at": "2023-09-24T16:32:15.280Z",
+        "crypto_id": "d3c2fef2-54f5-47de-ad8f-0d9459c5f416",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c71ce513-2cd2-415d-b5d2-198b10dd308b",
+        "created_at": "2023-09-25T04:09:16.857Z",
+        "updated_at": "2023-09-24T11:34:42.053Z",
+        "crypto_id": "2adae797-5e87-4c71-9d2e-29a8c30da8ac",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c603ece7-8f20-421a-aa22-d36f26646946",
+        "created_at": "2023-09-24T11:34:26.515Z",
+        "updated_at": "2023-09-25T05:04:13.406Z",
+        "crypto_id": "2adae797-5e87-4c71-9d2e-29a8c30da8ac",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_portfolio": [
+      {
+        "id": "12dd76ba-27d4-4901-9922-4c9bf4cf5bb3",
+        "amount": 98347,
+        "purchase_price": 16644,
+        "purchase_date": "2023-09-25T04:49:29.443Z",
+        "created_at": "2023-09-25T11:13:44.759Z",
+        "updated_at": "2023-09-25T11:21:14.808Z",
+        "crypto_id": "08f0b39c-d5d5-45b2-a6b9-6d1a07bb555e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "88597668-cd03-48eb-bafa-45bd87dbe38d",
+        "amount": 38978,
+        "purchase_price": 84799,
+        "purchase_date": "2023-09-25T04:02:34.734Z",
+        "created_at": "2023-09-24T18:37:36.159Z",
+        "updated_at": "2023-09-24T22:38:02.471Z",
+        "crypto_id": "08f0b39c-d5d5-45b2-a6b9-6d1a07bb555e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd8da1d0-fc98-407a-a7be-5001cc628cf1",
+        "amount": 19915,
+        "purchase_price": 8220,
+        "purchase_date": "2023-09-25T09:07:36.923Z",
+        "created_at": "2023-09-24T15:42:42.423Z",
+        "updated_at": "2023-09-24T23:23:16.057Z",
+        "crypto_id": "a72be56f-3148-4cfb-9aec-d4b272766501",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6589380-8b7a-487f-bf26-dbf28fd60e41",
+        "amount": 87534,
+        "purchase_price": 94505,
+        "purchase_date": "2023-09-25T01:23:25.740Z",
+        "created_at": "2023-09-25T01:52:59.948Z",
+        "updated_at": "2023-09-25T01:22:25.375Z",
+        "crypto_id": "a72be56f-3148-4cfb-9aec-d4b272766501",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "039e9984-667c-4aab-ab0a-7d9b3d3d8009",
+        "amount": 25662,
+        "purchase_price": 55374,
+        "purchase_date": "2023-09-24T16:35:25.326Z",
+        "created_at": "2023-09-24T14:39:20.125Z",
+        "updated_at": "2023-09-24T23:11:31.716Z",
+        "crypto_id": "08f0b39c-d5d5-45b2-a6b9-6d1a07bb555e",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f2d271fe-3907-4be1-9d11-fdf1bb5ea28c",
+        "email": "Buster_Fritsch@roq.tech",
+        "firstName": "Joanne",
+        "lastName": "Kunde",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/620.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ea421c06-68b4-45e6-a367-46eb9d673c5e",
+        "email": "Linnea.Goodwin99@roq.tech",
+        "firstName": "Willa",
+        "lastName": "Bernhard",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/644.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "437504a6-deda-45dc-b29d-f58b03444c70",
+        "email": "Webster.Pfeffer@roq.tech",
+        "firstName": "Christopher",
+        "lastName": "Botsford",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/43.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "11382755-43c5-4116-bec9-14cf5ea23625",
+        "email": "Kiara.Goldner@roq.tech",
+        "firstName": "Kip",
+        "lastName": "Monahan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/592.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f7d682ae-46b4-4e30-a7df-d535ad4a809e",
+        "email": "Casimer_Welch@roq.tech",
+        "firstName": "Clementine",
+        "lastName": "Durgan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/651.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "crypto_news": [
+      {
+        "id": "931df8be-7dcb-4708-ab54-dcea3d91735e",
+        "title": "Bitcoin hits all-time high",
+        "content": "The price of Bitcoin reached a new record high today...",
+        "published_at": "2023-09-24T18:26:20.358Z",
+        "source": "CoinNews",
+        "author": "JohnDoe",
+        "created_at": "2023-09-24T16:03:19.764Z",
+        "updated_at": "2023-09-25T02:44:59.784Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1563f1d8-0db9-4765-bf49-1ad94971a74b",
+        "title": "Ethereum surpasses $4,000",
+        "content": "Ethereum's value has been steadily increasing...",
+        "published_at": "2023-09-24T19:37:53.191Z",
+        "source": "CryptoWorld",
+        "author": "CryptoExpert",
+        "created_at": "2023-09-24T16:00:52.649Z",
+        "updated_at": "2023-09-25T10:52:15.401Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "be53dab2-13a7-4fa3-adaf-d1f6c97dccf6",
+        "title": "New cryptocurrency exchange launched",
+        "content": "A new cryptocurrency exchange has been introduced...",
+        "published_at": "2023-09-25T01:15:16.196Z",
+        "source": "Blockchain Times",
+        "author": "BlockchainEnthusiast",
+        "created_at": "2023-09-25T06:59:54.744Z",
+        "updated_at": "2023-09-24T12:25:41.135Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3ce05aa7-878a-457e-ad85-5f5d1dd4651f",
+        "title": "Ripple partners with major bank",
+        "content": "Ripple, the digital payment protocol, has formed a partnership...",
+        "published_at": "2023-09-25T04:38:00.070Z",
+        "source": "DigitalCurrencyNews",
+        "author": "CryptoTrader",
+        "created_at": "2023-09-24T12:35:59.615Z",
+        "updated_at": "2023-09-25T08:53:17.045Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cf5d3c15-67bf-439a-a647-02891130f621",
+        "title": "Blockchain technology revolutionizes supply chain",
+        "content": "Blockchain technology is transforming the way supply chains operate...",
+        "published_at": "2023-09-25T07:20:03.434Z",
+        "source": "CryptoInsider",
+        "author": "CryptoGuru",
+        "created_at": "2023-09-25T03:26:55.440Z",
+        "updated_at": "2023-09-25T06:02:53.897Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_market": [
+      {
+        "id": "6f454e7d-d4cd-45c8-89f3-76be97f8d71b",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "current_price": 35126,
+        "market_cap": 72847,
+        "volume": 32976,
+        "created_at": "2023-09-25T02:56:34.101Z",
+        "updated_at": "2023-09-24T17:21:32.897Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4e628951-9c7d-479c-89fa-281100e652a4",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "current_price": 8840,
+        "market_cap": 60992,
+        "volume": 50020,
+        "created_at": "2023-09-25T06:56:28.685Z",
+        "updated_at": "2023-09-24T14:58:51.255Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "486fd20d-351f-48c9-bf40-c9b0253b9afb",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "current_price": 41498,
+        "market_cap": 37594,
+        "volume": 87135,
+        "created_at": "2023-09-24T17:31:49.534Z",
+        "updated_at": "2023-09-25T08:42:52.108Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb8661fe-eb68-464c-aecd-bd794fd39d68",
+        "name": "Cardano",
+        "symbol": "ADA",
+        "current_price": 78134,
+        "market_cap": 89907,
+        "volume": 17792,
+        "created_at": "2023-09-24T21:42:32.656Z",
+        "updated_at": "2023-09-24T17:40:39.672Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26601f48-7788-4053-84f8-64aae8c543ac",
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "current_price": 21623,
+        "market_cap": 52762,
+        "volume": 78368,
+        "created_at": "2023-09-24T13:46:26.412Z",
+        "updated_at": "2023-09-24T14:19:53.641Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_watchlist": [
+      {
+        "id": "6474ef37-6bcd-4182-86e9-4f1e57e83b57",
+        "created_at": "2023-09-25T06:28:39.123Z",
+        "updated_at": "2023-09-24T22:01:40.439Z",
+        "crypto_id": "6f454e7d-d4cd-45c8-89f3-76be97f8d71b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a5caac1-a4e2-4247-9aef-28eb6c342f39",
+        "created_at": "2023-09-24T11:26:52.885Z",
+        "updated_at": "2023-09-24T18:02:47.019Z",
+        "crypto_id": "486fd20d-351f-48c9-bf40-c9b0253b9afb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5838650c-4067-4012-9535-42f1d941b24c",
+        "created_at": "2023-09-24T18:23:58.216Z",
+        "updated_at": "2023-09-25T01:57:00.138Z",
+        "crypto_id": "6f454e7d-d4cd-45c8-89f3-76be97f8d71b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5b62564d-8bed-4378-8fcc-4a14805e0e8d",
+        "created_at": "2023-09-25T06:36:53.912Z",
+        "updated_at": "2023-09-24T13:23:21.518Z",
+        "crypto_id": "26601f48-7788-4053-84f8-64aae8c543ac",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ed4e2f7-0e36-4e01-8b7f-56743ee65c7f",
+        "created_at": "2023-09-25T04:27:49.680Z",
+        "updated_at": "2023-09-25T02:11:41.820Z",
+        "crypto_id": "4e628951-9c7d-479c-89fa-281100e652a4",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_portfolio": [
+      {
+        "id": "0a26ce74-06d4-45b9-ba80-cdb706af1641",
+        "amount": 32157,
+        "purchase_price": 60274,
+        "purchase_date": "2023-09-24T13:09:40.004Z",
+        "created_at": "2023-09-25T03:35:42.034Z",
+        "updated_at": "2023-09-25T07:07:32.483Z",
+        "crypto_id": "6f454e7d-d4cd-45c8-89f3-76be97f8d71b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "079192dc-dada-4769-9e75-fca62a1b4a66",
+        "amount": 17119,
+        "purchase_price": 94679,
+        "purchase_date": "2023-09-24T15:45:52.977Z",
+        "created_at": "2023-09-24T18:33:57.427Z",
+        "updated_at": "2023-09-24T15:32:27.055Z",
+        "crypto_id": "26601f48-7788-4053-84f8-64aae8c543ac",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c2c8a22e-ac9a-40fb-9254-88c2dd342473",
+        "amount": 75270,
+        "purchase_price": 71880,
+        "purchase_date": "2023-09-24T22:04:31.026Z",
+        "created_at": "2023-09-24T19:48:23.456Z",
+        "updated_at": "2023-09-25T01:29:05.880Z",
+        "crypto_id": "6f454e7d-d4cd-45c8-89f3-76be97f8d71b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e1d93451-2011-4eb5-b754-a523f9dc4f99",
+        "amount": 92252,
+        "purchase_price": 97607,
+        "purchase_date": "2023-09-24T14:43:29.170Z",
+        "created_at": "2023-09-24T22:45:57.049Z",
+        "updated_at": "2023-09-25T05:08:18.102Z",
+        "crypto_id": "26601f48-7788-4053-84f8-64aae8c543ac",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "20b7d5bd-c335-4379-96e6-310039ba2611",
+        "amount": 9369,
+        "purchase_price": 40064,
+        "purchase_date": "2023-09-25T04:31:59.026Z",
+        "created_at": "2023-09-24T21:44:39.721Z",
+        "updated_at": "2023-09-24T19:34:54.972Z",
+        "crypto_id": "4e628951-9c7d-479c-89fa-281100e652a4",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c5eba045-ff4c-47b3-922a-02d45ee2ffd6",
+        "email": "Cordelia.Wolf36@roq.tech",
+        "firstName": "Meghan",
+        "lastName": "Koch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/994.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "72bdd14f-03f0-4718-8737-0345110823e1",
+        "email": "Spencer.Gulgowski73@roq.tech",
+        "firstName": "Hermann",
+        "lastName": "Kemmer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/614.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "eb4d49fc-3dd4-4810-9cac-e20d21d02b1f",
+        "email": "Drake.Wilkinson@roq.tech",
+        "firstName": "Gonzalo",
+        "lastName": "Yundt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/836.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bf2b27d6-cd35-48e1-83e4-6c2ebb38d06e",
+        "email": "Nat.Beer71@roq.tech",
+        "firstName": "Arne",
+        "lastName": "Collier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/89.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "573c79cb-1e56-45fe-93d6-0b754c3ebb1a",
+        "email": "Myrl_Muller11@roq.tech",
+        "firstName": "Kaleigh",
+        "lastName": "Herman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/238.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "crypto_news": [
+      {
+        "id": "da38ecd0-48fb-426c-89e9-1d9b4c7eab78",
+        "title": "Bitcoin Hits All-Time High",
+        "content": "The price of Bitcoin reached a new record high today...",
+        "published_at": "2023-09-25T10:02:56.077Z",
+        "source": "Crypto News Network",
+        "author": "John Smith",
+        "created_at": "2023-09-24T12:48:27.571Z",
+        "updated_at": "2023-09-24T20:27:34.701Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "efa6195c-11c6-4fd2-859c-ef86ed9700ef",
+        "title": "Ethereum Surges in Value",
+        "content": "Ethereum's value has seen a significant increase in recent weeks...",
+        "published_at": "2023-09-24T12:57:37.115Z",
+        "source": "Blockchain Times",
+        "author": "Jane Doe",
+        "created_at": "2023-09-24T17:42:01.580Z",
+        "updated_at": "2023-09-25T07:27:32.890Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d06bd34a-bf25-4aab-8e5e-231de2633fbd",
+        "title": "New Cryptocurrency Exchange Launched",
+        "content": "A new cryptocurrency exchange has been launched, providing users with...",
+        "published_at": "2023-09-24T19:17:05.011Z",
+        "source": "Coin Telegraph",
+        "author": "Michael Brown",
+        "created_at": "2023-09-25T03:44:34.707Z",
+        "updated_at": "2023-09-25T09:29:09.469Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f4201b9-4bd4-4fbc-b775-ded4ebabeb80",
+        "title": "Blockchain Technology Revolutionizing Finance",
+        "content": "Blockchain technology is transforming the financial industry...",
+        "published_at": "2023-09-25T01:05:04.145Z",
+        "source": "Crypto Insider",
+        "author": "Sarah Jones",
+        "created_at": "2023-09-24T21:47:01.034Z",
+        "updated_at": "2023-09-24T22:35:47.937Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1b37375f-ead7-40c3-9398-1faa24ef118f",
+        "title": "Rise of Decentralized Finance",
+        "content": "Decentralized finance, or DeFi, is gaining popularity as an alternative to traditional financial systems...",
+        "published_at": "2023-09-25T07:18:37.206Z",
+        "source": "Digital Currency Gazette",
+        "author": "Robert Wilson",
+        "created_at": "2023-09-25T05:54:22.792Z",
+        "updated_at": "2023-09-25T05:47:50.162Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_market": [
+      {
+        "id": "3091c3a0-481b-44b8-b79b-ceb0d6322328",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "current_price": 36132,
+        "market_cap": 62533,
+        "volume": 84737,
+        "created_at": "2023-09-25T07:44:02.075Z",
+        "updated_at": "2023-09-24T11:57:53.868Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5a75ab1b-b6d0-4575-8a09-1e674e70cd86",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "current_price": 45717,
+        "market_cap": 86191,
+        "volume": 83634,
+        "created_at": "2023-09-24T21:27:54.746Z",
+        "updated_at": "2023-09-25T09:13:05.240Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0fc2f5ae-73c3-4b65-a6bd-686f15ccb937",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "current_price": 38509,
+        "market_cap": 56977,
+        "volume": 5785,
+        "created_at": "2023-09-25T07:28:31.289Z",
+        "updated_at": "2023-09-24T20:07:40.140Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ab31e838-b200-4333-838c-ea1f5e23ed5c",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "current_price": 77669,
+        "market_cap": 71588,
+        "volume": 14179,
+        "created_at": "2023-09-25T08:16:10.741Z",
+        "updated_at": "2023-09-24T17:47:16.670Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d0c70377-346e-4794-8e22-35db86482a76",
+        "name": "Cardano",
+        "symbol": "ADA",
+        "current_price": 75918,
+        "market_cap": 28351,
+        "volume": 57622,
+        "created_at": "2023-09-24T19:43:26.253Z",
+        "updated_at": "2023-09-24T18:43:41.836Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_watchlist": [
+      {
+        "id": "94a326c5-9de7-49c5-a64d-a7bafa00da6c",
+        "created_at": "2023-09-25T08:57:36.141Z",
+        "updated_at": "2023-09-24T20:39:37.052Z",
+        "crypto_id": "5a75ab1b-b6d0-4575-8a09-1e674e70cd86",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ca6c2f5-7507-4033-bc36-4e1263d36d94",
+        "created_at": "2023-09-24T22:47:25.233Z",
+        "updated_at": "2023-09-25T01:17:35.634Z",
+        "crypto_id": "5a75ab1b-b6d0-4575-8a09-1e674e70cd86",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f65980ee-e0dd-48cc-8b70-0fca79f898f1",
+        "created_at": "2023-09-24T14:40:11.057Z",
+        "updated_at": "2023-09-24T18:59:02.255Z",
+        "crypto_id": "3091c3a0-481b-44b8-b79b-ceb0d6322328",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "774f344b-c06c-4ad5-8df1-bfb91526a9c6",
+        "created_at": "2023-09-24T23:17:59.812Z",
+        "updated_at": "2023-09-25T03:47:51.950Z",
+        "crypto_id": "d0c70377-346e-4794-8e22-35db86482a76",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7ef1ff3b-e3e9-43c1-beac-4bac9a60f4f4",
+        "created_at": "2023-09-24T21:04:24.407Z",
+        "updated_at": "2023-09-25T09:21:59.154Z",
+        "crypto_id": "3091c3a0-481b-44b8-b79b-ceb0d6322328",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_portfolio": [
+      {
+        "id": "974f2cd6-f510-4630-acb3-5cd1046e9162",
+        "amount": 32662,
+        "purchase_price": 62745,
+        "purchase_date": "2023-09-24T19:04:33.340Z",
+        "created_at": "2023-09-24T17:20:18.801Z",
+        "updated_at": "2023-09-24T19:04:40.091Z",
+        "crypto_id": "ab31e838-b200-4333-838c-ea1f5e23ed5c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9637dc9a-2d96-4625-9510-03095f02d8a9",
+        "amount": 98707,
+        "purchase_price": 79166,
+        "purchase_date": "2023-09-25T04:13:54.535Z",
+        "created_at": "2023-09-25T07:41:41.689Z",
+        "updated_at": "2023-09-25T06:22:08.762Z",
+        "crypto_id": "ab31e838-b200-4333-838c-ea1f5e23ed5c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "18b5e3ee-b94e-4ed6-94af-3efa89c15491",
+        "amount": 41702,
+        "purchase_price": 61196,
+        "purchase_date": "2023-09-25T01:24:10.362Z",
+        "created_at": "2023-09-25T08:12:34.880Z",
+        "updated_at": "2023-09-25T01:17:15.529Z",
+        "crypto_id": "5a75ab1b-b6d0-4575-8a09-1e674e70cd86",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "73bde6b3-c1a7-450f-86f2-271a38510642",
+        "amount": 25330,
+        "purchase_price": 25429,
+        "purchase_date": "2023-09-24T11:35:06.885Z",
+        "created_at": "2023-09-25T06:50:33.727Z",
+        "updated_at": "2023-09-24T22:07:35.048Z",
+        "crypto_id": "3091c3a0-481b-44b8-b79b-ceb0d6322328",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0415759d-c674-4792-bab4-b9505848c152",
+        "amount": 39918,
+        "purchase_price": 33178,
+        "purchase_date": "2023-09-25T00:33:16.794Z",
+        "created_at": "2023-09-25T07:57:49.420Z",
+        "updated_at": "2023-09-25T00:42:43.919Z",
+        "crypto_id": "3091c3a0-481b-44b8-b79b-ceb0d6322328",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ab5d5127-cd52-4cc2-bc4e-b035ebb0d7ba",
+        "email": "Gideon14@roq.tech",
+        "firstName": "Priscilla",
+        "lastName": "Hintz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43965741",
+        "tenantId": null
+      },
+      {
+        "reference": "555076b8-c9ea-4812-81a9-3a294d9074d0",
+        "email": "Alexanne_Botsford@roq.tech",
+        "firstName": "Dan",
+        "lastName": "Rutherford",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95070768",
+        "tenantId": null
+      },
+      {
+        "reference": "2fe8a8e4-2a30-4472-979f-0f9e1d10991a",
+        "email": "Dennis_White@roq.tech",
+        "firstName": "Dariana",
+        "lastName": "Kulas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/432.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "90c0b30c-4cb0-43f3-bc68-dc03f4fdc070",
+        "email": "Eli_Grant66@roq.tech",
+        "firstName": "Katherine",
+        "lastName": "Murazik",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/804.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7955bec1-f07d-4fe0-8b4b-a47f468d9c61",
+        "email": "Mafalda.Turner14@roq.tech",
+        "firstName": "Ottilie",
+        "lastName": "Goodwin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9671588",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "crypto_news": [
+      {
+        "id": "e371d3f7-37b1-46f9-9057-8dbcf4572426",
+        "title": "Bitcoin reaches all-time high",
+        "content": "The price of Bitcoin has surged to a new record high...",
+        "published_at": "2023-09-24T17:18:08.082Z",
+        "source": "CryptoNews",
+        "author": "John Smith",
+        "created_at": "2023-09-24T19:16:00.979Z",
+        "updated_at": "2023-09-24T21:45:42.706Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a11b9d65-9c35-403c-8a72-96cff070c6b0",
+        "title": "Ethereum's latest upgrade improves scalability",
+        "content": "Ethereum's latest upgrade, known as Ethereum 2.0...",
+        "published_at": "2023-09-25T02:40:15.760Z",
+        "source": "CoinTelegraph",
+        "author": "Jane Doe",
+        "created_at": "2023-09-25T11:04:45.901Z",
+        "updated_at": "2023-09-24T22:10:28.246Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2460255-84b4-46e0-98aa-979962d19f74",
+        "title": "New altcoin emerges in the market",
+        "content": "A new altcoin called XYZcoin has gained significant attention...",
+        "published_at": "2023-09-24T14:52:02.451Z",
+        "source": "BlockchainInsider",
+        "author": "David Johnson",
+        "created_at": "2023-09-24T12:24:24.032Z",
+        "updated_at": "2023-09-24T14:48:21.804Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4af993f-5974-4692-8eec-e4004cf69a32",
+        "title": "Crypto regulations to be implemented worldwide",
+        "content": "Governments around the world are planning to introduce...",
+        "published_at": "2023-09-25T06:28:24.458Z",
+        "source": "CryptoGlobe",
+        "author": "Emily Brown",
+        "created_at": "2023-09-25T07:16:55.478Z",
+        "updated_at": "2023-09-25T10:52:31.500Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f0018616-3777-4b99-baed-36abe1621f67",
+        "title": "Blockchain technology revolutionizes supply chain",
+        "content": "Blockchain technology has the potential to transform the way...",
+        "published_at": "2023-09-25T08:50:51.193Z",
+        "source": "CoinDesk",
+        "author": "Michael Wilson",
+        "created_at": "2023-09-24T19:37:55.428Z",
+        "updated_at": "2023-09-25T07:43:25.640Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_market": [
+      {
+        "id": "1c696e0f-c065-4dd8-9fd9-4a6df2f6edb2",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "current_price": 98181,
+        "market_cap": 85028,
+        "volume": 93733,
+        "created_at": "2023-09-25T09:09:53.525Z",
+        "updated_at": "2023-09-25T07:58:51.301Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1893da3b-3d84-423d-92e9-b94eec99c626",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "current_price": 24543,
+        "market_cap": 76029,
+        "volume": 42966,
+        "created_at": "2023-09-24T18:39:48.234Z",
+        "updated_at": "2023-09-25T03:18:08.063Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7f081306-c62c-4b6b-802a-8210ad40e0ed",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "current_price": 47183,
+        "market_cap": 47022,
+        "volume": 98235,
+        "created_at": "2023-09-25T01:38:23.032Z",
+        "updated_at": "2023-09-25T00:35:14.520Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a251b12-81e4-41b6-be16-fc98bc10065c",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "current_price": 291,
+        "market_cap": 58893,
+        "volume": 86760,
+        "created_at": "2023-09-24T15:36:55.999Z",
+        "updated_at": "2023-09-24T21:10:30.250Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cdb0133b-fd0b-4d01-b898-7d17f21e8763",
+        "name": "Cardano",
+        "symbol": "ADA",
+        "current_price": 3462,
+        "market_cap": 73975,
+        "volume": 27120,
+        "created_at": "2023-09-25T09:52:29.235Z",
+        "updated_at": "2023-09-24T20:35:38.314Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_watchlist": [
+      {
+        "id": "ae4f47e4-458c-4d24-9795-d304781b84ff",
+        "created_at": "2023-09-25T00:06:06.729Z",
+        "updated_at": "2023-09-24T15:02:35.995Z",
+        "crypto_id": "7f081306-c62c-4b6b-802a-8210ad40e0ed",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "091a35b1-1c93-47dc-b5f4-8d79672c771b",
+        "created_at": "2023-09-25T00:53:50.831Z",
+        "updated_at": "2023-09-25T07:19:06.583Z",
+        "crypto_id": "0a251b12-81e4-41b6-be16-fc98bc10065c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c002571c-3dfb-46a6-b2e7-e03415d29e38",
+        "created_at": "2023-09-24T16:23:54.395Z",
+        "updated_at": "2023-09-25T08:36:47.796Z",
+        "crypto_id": "cdb0133b-fd0b-4d01-b898-7d17f21e8763",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "66a8911b-9961-4faf-a68d-1fa3e0787242",
+        "created_at": "2023-09-25T02:43:04.739Z",
+        "updated_at": "2023-09-24T12:50:31.868Z",
+        "crypto_id": "cdb0133b-fd0b-4d01-b898-7d17f21e8763",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "88741158-08a6-46d5-bac1-09dfb3bfccc1",
+        "created_at": "2023-09-24T15:46:32.580Z",
+        "updated_at": "2023-09-24T20:37:41.061Z",
+        "crypto_id": "1c696e0f-c065-4dd8-9fd9-4a6df2f6edb2",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_portfolio": [
+      {
+        "id": "ca59c75a-851b-4acb-a050-3b6358230dc4",
+        "amount": 54931,
+        "purchase_price": 95416,
+        "purchase_date": "2023-09-24T19:49:46.743Z",
+        "created_at": "2023-09-24T19:02:30.429Z",
+        "updated_at": "2023-09-24T18:36:42.571Z",
+        "crypto_id": "cdb0133b-fd0b-4d01-b898-7d17f21e8763",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "63c50a63-37ea-4ef7-b770-a366e261c913",
+        "amount": 25716,
+        "purchase_price": 83226,
+        "purchase_date": "2023-09-24T14:26:26.296Z",
+        "created_at": "2023-09-25T09:13:03.283Z",
+        "updated_at": "2023-09-25T11:22:17.621Z",
+        "crypto_id": "0a251b12-81e4-41b6-be16-fc98bc10065c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff84f12b-d583-4eec-9a0c-302079a132e2",
+        "amount": 12971,
+        "purchase_price": 32172,
+        "purchase_date": "2023-09-24T19:23:02.770Z",
+        "created_at": "2023-09-24T20:37:35.241Z",
+        "updated_at": "2023-09-24T18:24:29.326Z",
+        "crypto_id": "cdb0133b-fd0b-4d01-b898-7d17f21e8763",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "14d88229-6cd6-44c0-8280-a074a801346e",
+        "amount": 19440,
+        "purchase_price": 34113,
+        "purchase_date": "2023-09-24T22:54:54.277Z",
+        "created_at": "2023-09-25T00:32:37.535Z",
+        "updated_at": "2023-09-24T17:23:34.264Z",
+        "crypto_id": "1893da3b-3d84-423d-92e9-b94eec99c626",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "945aff3e-c86d-44f9-b7ee-9415f4c6364f",
+        "amount": 25646,
+        "purchase_price": 74584,
+        "purchase_date": "2023-09-25T08:27:53.870Z",
+        "created_at": "2023-09-25T09:06:53.908Z",
+        "updated_at": "2023-09-24T23:33:01.004Z",
+        "crypto_id": "1c696e0f-c065-4dd8-9fd9-4a6df2f6edb2",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "002cbe76-8880-49c4-ab2a-dbe42f284c71",
+        "email": "Enrico51@roq.tech",
+        "firstName": "Angela",
+        "lastName": "Parker",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33695320",
+        "tenantId": null
+      },
+      {
+        "reference": "6ba2582d-337d-4d70-b6ba-fb368a4275bd",
+        "email": "Louisa65@roq.tech",
+        "firstName": "Lempi",
+        "lastName": "Wintheiser",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81270769",
+        "tenantId": null
+      },
+      {
+        "reference": "d6ca0b92-de9c-4465-90c3-f8976711b431",
+        "email": "Sanford_Bogisich86@roq.tech",
+        "firstName": "Maddison",
+        "lastName": "Franecki",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/226.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f55ed950-8c63-4bc6-b224-caaadcaf9a35",
+        "email": "Terrence34@roq.tech",
+        "firstName": "Summer",
+        "lastName": "Vandervort",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/288.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e255df1d-18f4-4af2-8235-f43888f2b29a",
+        "email": "Savion47@roq.tech",
+        "firstName": "Sharon",
+        "lastName": "Von",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/725.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "crypto_news": [
+      {
+        "id": "8dac7855-b1e1-4af2-9f3b-2deab8dd8e4c",
+        "title": "Bitcoin reaches all-time high",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "published_at": "2023-09-24T18:37:16.064Z",
+        "source": "Crypto News Network",
+        "author": "John Smith",
+        "created_at": "2023-09-25T10:09:25.902Z",
+        "updated_at": "2023-09-24T17:20:11.628Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6988149e-c6f6-4c4d-91e3-cde2b008672e",
+        "title": "Ethereum introduces new upgrade",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "published_at": "2023-09-25T03:10:48.604Z",
+        "source": "Blockchain Times",
+        "author": "Jane Doe",
+        "created_at": "2023-09-25T07:57:52.686Z",
+        "updated_at": "2023-09-24T14:15:46.366Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8146e37e-eb08-422e-af52-dadd99324a91",
+        "title": "Ripple partners with major banks",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "published_at": "2023-09-25T01:02:05.151Z",
+        "source": "Coin Telegraph",
+        "author": "Michael Brown",
+        "created_at": "2023-09-24T13:05:09.673Z",
+        "updated_at": "2023-09-25T06:20:39.753Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae425969-17d0-40ff-8fc5-3d3971a2819f",
+        "title": "Litecoin sees significant price surge",
+        "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+        "published_at": "2023-09-25T11:20:05.589Z",
+        "source": "Crypto Insider",
+        "author": "Sarah Jones",
+        "created_at": "2023-09-25T08:38:33.350Z",
+        "updated_at": "2023-09-25T03:59:01.158Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5aef6c13-b26b-4211-a259-b6c923de9589",
+        "title": "Cardano announces new partnership",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "published_at": "2023-09-24T14:43:36.620Z",
+        "source": "Digital Currency News",
+        "author": "David Wilson",
+        "created_at": "2023-09-25T06:57:25.344Z",
+        "updated_at": "2023-09-24T22:39:30.842Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_market": [
+      {
+        "id": "cfd41aaa-741f-495d-a6d6-1e7a639a49ef",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "current_price": 36359,
+        "market_cap": 16525,
+        "volume": 86965,
+        "created_at": "2023-09-25T10:48:32.882Z",
+        "updated_at": "2023-09-25T09:28:30.071Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e0130f32-c234-4a35-b794-0c96e89fafee",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "current_price": 44393,
+        "market_cap": 51908,
+        "volume": 51420,
+        "created_at": "2023-09-24T22:09:20.130Z",
+        "updated_at": "2023-09-25T06:29:03.921Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bcfae78b-6628-431e-85e5-c0788f2e3f22",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "current_price": 34968,
+        "market_cap": 97764,
+        "volume": 19479,
+        "created_at": "2023-09-24T23:54:39.328Z",
+        "updated_at": "2023-09-25T11:04:07.215Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c74a9223-bf81-44b0-8f8d-36d8de67a711",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "current_price": 76626,
+        "market_cap": 78233,
+        "volume": 1862,
+        "created_at": "2023-09-24T12:51:48.586Z",
+        "updated_at": "2023-09-25T06:06:18.218Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f300a0ad-96eb-498f-bafa-82263a5eb7ea",
+        "name": "Cardano",
+        "symbol": "ADA",
+        "current_price": 51705,
+        "market_cap": 22813,
+        "volume": 7756,
+        "created_at": "2023-09-24T22:59:48.170Z",
+        "updated_at": "2023-09-24T17:34:48.149Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_watchlist": [
+      {
+        "id": "00b3c9e7-09f8-4626-8461-1f22ed219b0f",
+        "created_at": "2023-09-24T13:22:59.970Z",
+        "updated_at": "2023-09-24T11:40:57.838Z",
+        "crypto_id": "f300a0ad-96eb-498f-bafa-82263a5eb7ea",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9649bc71-cfac-411c-a6a5-52e2c728be2e",
+        "created_at": "2023-09-25T02:17:04.089Z",
+        "updated_at": "2023-09-25T05:27:27.314Z",
+        "crypto_id": "cfd41aaa-741f-495d-a6d6-1e7a639a49ef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0eb82c85-dcfb-4620-861c-0b7de9f3e959",
+        "created_at": "2023-09-24T13:02:37.781Z",
+        "updated_at": "2023-09-24T14:34:46.630Z",
+        "crypto_id": "cfd41aaa-741f-495d-a6d6-1e7a639a49ef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f54a04e-878e-41ce-aa74-1f47a4daf935",
+        "created_at": "2023-09-25T08:05:46.990Z",
+        "updated_at": "2023-09-25T10:59:52.704Z",
+        "crypto_id": "e0130f32-c234-4a35-b794-0c96e89fafee",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "383ae171-5d51-47a2-949c-778fef6a5ded",
+        "created_at": "2023-09-24T12:19:02.830Z",
+        "updated_at": "2023-09-24T16:56:47.585Z",
+        "crypto_id": "c74a9223-bf81-44b0-8f8d-36d8de67a711",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "crypto_portfolio": [
+      {
+        "id": "c2fabb92-340c-4127-ab3e-f25d76fc6baa",
+        "amount": 85598,
+        "purchase_price": 24716,
+        "purchase_date": "2023-09-25T07:26:40.322Z",
+        "created_at": "2023-09-25T01:16:17.661Z",
+        "updated_at": "2023-09-25T03:38:49.880Z",
+        "crypto_id": "bcfae78b-6628-431e-85e5-c0788f2e3f22",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "538545a7-1279-4a50-b4d3-8a51d0ff7bcd",
+        "amount": 20543,
+        "purchase_price": 46349,
+        "purchase_date": "2023-09-24T19:29:43.825Z",
+        "created_at": "2023-09-24T15:54:52.545Z",
+        "updated_at": "2023-09-25T10:17:57.102Z",
+        "crypto_id": "cfd41aaa-741f-495d-a6d6-1e7a639a49ef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "096d4a59-dba6-4153-b6ef-7e5335db7206",
+        "amount": 81670,
+        "purchase_price": 36196,
+        "purchase_date": "2023-09-25T00:27:54.026Z",
+        "created_at": "2023-09-25T10:31:11.573Z",
+        "updated_at": "2023-09-25T09:07:16.930Z",
+        "crypto_id": "bcfae78b-6628-431e-85e5-c0788f2e3f22",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "261df23e-31e3-4247-9d7a-93d6cea70692",
+        "amount": 93013,
+        "purchase_price": 65924,
+        "purchase_date": "2023-09-24T13:35:07.595Z",
+        "created_at": "2023-09-25T08:30:00.881Z",
+        "updated_at": "2023-09-25T01:51:14.286Z",
+        "crypto_id": "cfd41aaa-741f-495d-a6d6-1e7a639a49ef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c1bd5851-06f3-4418-aab7-3509788850b4",
+        "amount": 92156,
+        "purchase_price": 79798,
+        "purchase_date": "2023-09-25T09:38:40.322Z",
+        "created_at": "2023-09-24T13:53:01.686Z",
+        "updated_at": "2023-09-24T16:33:26.825Z",
+        "crypto_id": "f300a0ad-96eb-498f-bafa-82263a5eb7ea",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7e2680e6-9735-4cd6-a856-53c18c10968f",
+        "email": "Vicenta.Zboncak@roq.tech",
+        "firstName": "Christop",
+        "lastName": "Ernser",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63475365",
+        "tenantId": null
+      },
+      {
+        "reference": "1c8e09fe-f594-48ee-a774-318c26a2d4dd",
+        "email": "Christy64@roq.tech",
+        "firstName": "Cecilia",
+        "lastName": "Shields-Bernier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/430.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f627bd28-1709-4571-aee4-03f2e2bd9ebc",
+        "email": "Trisha_Hills80@roq.tech",
+        "firstName": "Jenifer",
+        "lastName": "Kulas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1120.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "76a87825-1a75-4305-af93-cb2b370de5c0",
+        "email": "Benedict.Reichert@roq.tech",
+        "firstName": "Vivian",
+        "lastName": "Welch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/763.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "00a68100-f041-4b4c-8801-a86cb582a8e3",
+        "email": "Jordy47@roq.tech",
+        "firstName": "Adolphus",
+        "lastName": "Crist",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/36.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
